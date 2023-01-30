@@ -1,0 +1,44 @@
+* {
+    color: blue;
+}
+p, span {
+    color: blue;
+    width: 300px;
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border:1px solid black;
+    padding: 5px solid rgb(46, 24, 24);
+    font-weight: bold;
+    color: black;
+}
+section {
+    -webkit-border-radius: 5px 5px 013px 13px;
+     border-radius: 5px 5px 013px 13px;
+    -webkit-box-shadow: 5px -14px 100px 19px #000000; 
+    box-shadow: 5px -14px 100px 19px #000000;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+body {
+    background: #1C6EA4;
+background: -moz-linear-gradient(left, #1C6EA4 0%, #2388CB 74%, #144E75 100%);
+background: -webkit-linear-gradient(left, #1C6EA4 0%, #2388CB 74%, #144E75 100%);
+background: linear-gradient(to right, #1C6EA4 0%, #2388CB 74%, #144E75 100%);
+}
+#mi_parrafo {
+    color: coral;
+    font-size: 23px;
+    border: 1px yellow;}
+}
+.estaesmiclase {
+    font-weight: bold;
+    color: lightblue;
+}
+#sec2 {
+    
+}
